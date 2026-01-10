@@ -69,8 +69,8 @@ $result = $conn->query("SELECT * FROM recipes");
                     </button>
                     <nav class="d-none d-md-flex gap-1">
                         <a href="index.php" class="nav-pill-custom active">Home</a>
-                        <a href="about.php" class="nav-pill-custom">About Us</a>
-                        <a href="contact.php" class="nav-pill-custom">Contact</a>
+                        <a href="about.html" class="nav-pill-custom">About Us</a>
+                        <a href="contact.html" class="nav-pill-custom">Contact</a>
                     </nav>
                 </div>
             </div>
